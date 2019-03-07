@@ -1,0 +1,87 @@
+.Name {
+    border: #e0d5a6 dotted 6px; 
+    background-color: #969bff;
+    padding: 4px;
+    display:flex;
+    justify-content:center;
+    color:#ecffaf;
+}
+
+.reasons {
+    border: #969bff groove 12px;
+    background-color: #ecffaf;
+    padding: 4px;
+    display:flex; 
+    justify-content:center;
+    color: #969bff;
+}
+
+.container {
+    display:flex;
+    justify-content:space-around;
+}
+
+.A {
+    border: black double 4px;
+    background-image: linear-gradient(grey, #c9fff1);
+    padding: 4px;
+    color: black;
+    font-family: 'Merriweather', serif;
+    border-radius:6px;
+    
+}
+
+.B {
+    border: #85cbfc dashed 4px;
+    padding:4px;
+    background-color: #ffb25b; 
+    color: #64b8f4;
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 40px;
+}
+
+.C {
+    border: #47a389 dotted 4px;
+    padding:6px;
+    background-color: #abdb72; 
+    color: #47a389;
+    font-family: 'Roboto Slab', serif;
+    border-radius: 20px;
+}
+
+.D {
+    border: #ed5a5c ridge 6px;
+    padding:6px;
+    background-color: #4bf945; 
+    color: #871d14;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 6px;
+}
+
+.E {
+    border: #7f45c1 6px;
+    padding:6px;
+    background-color: #bf4ed8; 
+    color: #4009e8;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 19px;
+    border-top-style: double;
+    border-right-style: solid;
+    border-bottom-style: double;
+    border-left-style: solid;
+    
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: #998e60;
+    
+}
+
+ul {
+    font-family: 'Noto Sans SC', sans-serif;
+}
+
+body {
+    background-color: #c9fff1;}
+    
